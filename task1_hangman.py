@@ -1,8 +1,4 @@
-# ============================================================
-#  CodeAlpha — Task 1: Hangman Game
-#  Author : Your Name
-#  Repo   : github.com/YourUsername/CodeAlpha_HangmanGame
-# ============================================================
+
 
 import random
 
